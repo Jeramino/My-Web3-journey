@@ -1,2 +1,2 @@
-# My-Web3-journey
+# My-Web3-Journey
 Learning about the basics and importance of Github
